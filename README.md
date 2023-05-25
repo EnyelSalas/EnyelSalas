@@ -7,18 +7,12 @@ My projects in the cybersecurity realm are rooted in real-world scenarios, addre
 
 Threat hunting, and analysis is at the core of my approach. By proactively searching for signs of compromise and analyzing anomalous behavior, I identify potential threats that may go unnoticed by traditional security measures. This proactive stance allows for early detection and mitigation.
 
-To aid in these endeavors, I focus in tools, each serving a unique purpose:
-Snort: Snort is an open-source, signature-based Intrusion Detection System (IDS) and Intrusion Prevention System (IPS). It is widely used for network traffic analysis and security monitoring. 
-
-
-Wireshark: A popular tool for network protocol analysis, Wireshark allows for in-depth examination of network traffic. With Wireshark, I can dissect packets and gain a comprehensive understanding of communication protocols.
-
-YARA rules: YARA is an open-source pattern matching tool primarily used for identifying and classifying malware or suspicious files. It employs a rule-based approach, where analysts define patterns and conditions to identify specific characteristics or indicators of malicious code. 
-Brim: An open-source desktop application designed for processing pcap files and log files. Brim specializes in providing advanced search and analytics capabilities, making it easier to uncover insights quickly. It leverages the Zeek log processing format and supports Zeek signatures and Suricata Rules.
-
-NetworkMiner: An open-source Network Forensic Analysis Tool (NFAT) that allows for passive network sniffing and packet capturing. It provides crucial information about operating systems, sessions, hostnames, and open ports without generating additional network traffic. NetworkMiner also supports offline analysis by parsing PCAP files and reconstructing transmitted files and certificates.
-
-Zeek: A passive, open-source network traffic analyzer widely used as a network security monitor (NSM). Zeek is invaluable for investigating suspicious or malicious activity, enabling operators to delve deeper into network analysis. It offers capabilities beyond security, including performance measurement and troubleshooting.
+To aid in these endeavors, I focus in tools, each serving the unique purpose of monitring network's Systems and endpoints.
+Snort
+Wireshark,
+YARA,
+NetworkMiner,
+Zeek.
 
 Together, these tools form the foundation of my cybersecurity toolkit, enabling me to navigate the complexities of the digital landscape and provide effective solutions to combat emerging threats.
 
