@@ -1,11 +1,11 @@
-<h1>Hi, I'm Enyel Salas! JrSOC Analyst, Blogger</h1> <p>Welcome to my Github blog and portfolio page, where cybersecurity meets real-world challenges. I am a resourceful, motivated, and hands-on professional who is deeply passionate about cybersecurity. With an extensive background in both corporate and entrepreneurial ventures, including my work as a life coach and lead instructor in the fitness industry, I have honed my skills in managing ambiguity and solving complex problems.
+<h1>Hi,I 'm Enyel Salas! Jr SOC Analyst, and CyberBlogger.</h1> <p>Welcome to my Github blog and portfolio page, where cybersecurity meets real-world challenges. I am a resourceful, motivated, and hands-on professional who is deeply passionate about cybersecurity. With an extensive background in both corporate and entrepreneurial ventures, including my work as a life coach and lead instructor in the fitness industry, I have honed my skills in managing ambiguity and solving complex problems.
 
 As a career pivot, I have embarked on a journey of accelerated project-based learning, triaging, and diligent self-study. This has equipped me with the necessary tools to continue learning and growing while working for a progressive cybersecurity firm. I thrive as a team player, bringing an energetic personality and a relentless drive to my work.
 
 In my blog, I focus on the intricate analysis of malware and captivating stories surrounding some of the biggest hacks in various industries. By dissecting these incidents, I provide valuable insights into the tactics, techniques, and procedures employed by threat actors. Through my blog, you will gain a deeper understanding of the evolving threat landscape and learn actionable strategies to fortify your defenses.
 My projects in the cybersecurity realm are rooted in real-world scenarios, addressing the ever-evolving challenges faced by organizations today. 
 
-Threat hunting, and analysis is at the core of my approach. By proactively searching for signs of compromise and analyzing anomalous behavior, I identify potential threats that may go unnoticed by traditional security measures. This proactive stance allows for early detection and mitigation.
+Threat hunting, and analysis is at the core of my approach. By proactively searching for signs of compromise and analyzing anomalous behavior, I identify potential threats that may go unnoticed by traditional security measures. This proactive stance allows for early detection and mitigation.</p>
 
 To aid in these endeavors, I focus in tools, each serving the unique purpose of monitring network's Systems and endpoints.
 Snort
