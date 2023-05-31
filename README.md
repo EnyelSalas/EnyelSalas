@@ -8,12 +8,13 @@ My projects in the cybersecurity realm are rooted in real-world scenarios, addre
 Threat hunting, and analysis is at the core of my approach. By proactively searching for signs of compromise and analyzing anomalous behavior, I identify potential threats that may go unnoticed by traditional security measures. This proactive stance allows for early detection and mitigation.</p>
 
 To aid in these endeavors, I focus in tools, each serving the unique purpose of monitring network's Systems and endpoints.
-Snort
+
+Snort,
 Wireshark,
 YARA,
 NetworkMiner,
-Zeek.
-
+Zeek,
+MITRE ATT&ck Framework.
 Together, these tools form the foundation of my cybersecurity toolkit, enabling me to navigate the complexities of the digital landscape and provide effective solutions to combat emerging threats.
 
 Join me on this exciting journey as we explore the fascinating world of cybersecurity, dissecting malware, unraveling captivating stories, and discovering strategies to protect against the ever-present risks. Together, we can stay one step ahead in the battle against cyber threats and safeguard our digital future.
