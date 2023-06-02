@@ -1,6 +1,7 @@
 <h1>Hi, I'm Enyel Salas! Jr SOC Analyst/CyberBlogger.<h1>
   
-<p>Welcome to my Github blog and portfolio page, where cybersecurity meets real-world challenges. I am a resourceful, motivated, and hands-on professional who is deeply passionate about cybersecurity. With an extensive background in both corporate and entrepreneurial ventures, including my work as a life coach and lead instructor in the fitness industry, I have honed my skills in managing ambiguity and solving complex problems.
+
+  <p> Welcome to my Github blog and portfolio page, where cybersecurity meets real-world challenges. I am a resourceful, motivated, and hands-on professional who is deeply passionate about cybersecurity. With an extensive background in both corporate and entrepreneurial ventures, including my work as a life coach and lead instructor in the fitness industry, I have honed my skills in managing ambiguity and solving complex problems.
 
 As a career pivot, I have embarked on a journey of accelerated project-based learning, triaging, and diligent self-study. This has equipped me with the necessary tools to continue learning and growing while working for a progressive cybersecurity firm. I thrive as a team player, bringing an energetic personality and a relentless drive to my work.
 
@@ -21,7 +22,7 @@ To aid in these endeavors, I focus in tools, each serving the unique purpose of 
 
 Together, these tools form the foundation of my cybersecurity toolkit, enabling me to navigate the complexities of the digital landscape and provide effective solutions to combat emerging threats.
 
-Join me on this exciting journey as we explore the fascinating world of cybersecurity, dissecting malware, unraveling captivating stories, and discovering strategies to protect against the ever-present risks. Together, we can stay one step ahead in the battle against cyber threats and safeguard our digital future .</p>
+Join me on this exciting journey as we explore the fascinating world of cybersecurity, dissecting malware, unraveling captivating stories, and discovering strategies to protect against the ever-present risks. Together, we can stay one step ahead in the battle against cyber threats and safeguard our digital future. </p>
 
 
 #Here are some ideas to get you started:
