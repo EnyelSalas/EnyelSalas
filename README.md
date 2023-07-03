@@ -24,17 +24,7 @@ My projects in the cybersecurity realm are rooted in real-world scenarios, addre
 
 
 <p style="font-size:160%;">To aid in these endeavors, I focus in tools, each serving the unique purpose of monitring network's Systems and endpoints:</p>
-<p style="font-size:160%;">Snort, Wireshark,YARA</p>
-<p style="font-size:160%;">NetworkMiner</p>
-<p style="font-size:160%;">Zeek</p>
-<p style="font-size:160%;">MITRE ATT&ck Framework</p>
-<p style="font-size:160%;">Wazuh</p>
-<p style="font-size:160%;">Osquery</p>
-<p style="font-size:160%;">Sysmon</p>
-<p style="font-size:160%;">Brim</p>
-<p style="font-size:160%;">Windows Event Logs </p>
-<p style="font-size:160%;">Splunk </p> 
-<p style="font-size:160%;">ELK</p>
+<p style="font-size:160%;">Snort, Wireshark,YARA, NetworkMiner, Zeek, MITRE ATT&ck Framework, Wazuh, Osquery, Sysmon, Brim, Windows Event LogS, Splunk, ELK. </p>
 <p style="font-size:160%;">Together, these tools form the foundation of my cybersecurity toolkit, enabling me to navigate the complexities of the digital landscape and provide effective solutions to combat emerging threats.
   
 <p style="font-size:160%;">Join me on this exciting journey as we explore the fascinating world of cybersecurity, dissecting malware, unraveling captivating stories, and discovering strategies to protect against the ever-present risks. Together, we can stay one step ahead in the battle against cyber threats and safeguard our digital future.</p>
