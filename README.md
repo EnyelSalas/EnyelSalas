@@ -24,9 +24,7 @@ My projects in the cybersecurity realm are rooted in real-world scenarios, addre
 
 
 <p style="font-size:160%;">To aid in these endeavors, I focus in tools, each serving the unique purpose of monitring network's Systems and endpoints:</p>
-<p style="font-size:160%;">Snort</p>
-<p style="font-size:160%;">Wireshark</p>
-<p style="font-size:160%;">YARA</p>
+<p style="font-size:160%;">Snort, Wireshark,YARA</p>
 <p style="font-size:160%;">NetworkMiner</p>
 <p style="font-size:160%;">Zeek</p>
 <p style="font-size:160%;">MITRE ATT&ck Framework</p>
