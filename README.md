@@ -43,6 +43,6 @@ My projects in the cybersecurity realm are rooted in real-world scenarios, addre
 
 <p style="font-size:160%;">✨⚡You can read more about me on my Blog and medium posts.</p>
 
-<p style="font-size:160%;"><a href="url">https://enyelsalas.github.io/Blog-Portfolio/</a>
+<p style="font-size:160%;"><a href="url">/https://medium.com/@enyel.salas84</a>
 
 
