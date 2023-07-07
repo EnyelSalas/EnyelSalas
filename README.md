@@ -34,7 +34,7 @@
 <p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84">https://medium.com/@enyel.salas84</a></p>
 
 <p style="font-size:160%;">WireShark</p>
-<p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/cold-as-ice-unit-42-wireshark-quiz-for-icedid-bc24aa0034e">https://medium.com/@enyel.salas84/cold-as-ice-unit-42-wireshark-quiz-for-icedid-bc24aa0034e</a></p>
+<p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/cold-as-ice-unit-42-wireshark-quiz-for-icedid-bc24aa0034e1</a></p>
 <p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/unveiling-the-gozi-infection-detecting-gozi-in-an-active-directory-ad-environment-using-9773baebe25f">https://medium.com/@enyel.salas84/unveiling-the-gozi-infection-detecting-gozi-in-an-active-directory-ad-environment-using-9773baebe25f</a></p>
 <p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/tryhackme-wireshark-packet-operations-293edfb6d446">https://medium.com/@enyel.salas84/tryhackme-wireshark-packet-operations-293edfb6d446</a></p>
 <p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/tryhackme-carnage-walkthrough-bdd9fc64cddf">https://medium.com/@enyel.salas84/tryhackme-carnage-walkthrough-bdd9fc64cddf</a></p>
