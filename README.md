@@ -24,7 +24,7 @@
 <p style="font-size:160%;">Threat hunting and analysis are at the core of my approach. By proactively searching for signs of compromise and analyzing anomalous behavior, I identify potential threats that may go unnoticed by traditional security measures. This proactive stance allows for early detection and mitigation.</p>
 
 <p style="font-size:160%;">To aid in these endeavors, I focus on tools, each serving the unique purpose of monitoring networks' systems and endpoints:</p>
-<p style="font-size:160%;">Snort, Wireshark, YARA, NetworkMiner, Zeek, MITRE ATT&CK Framework, Wazuh, Osquery, Sysmon, Brim, Windows Event Logs, Splunk, ELK.</p>
+<p style="font-size:160%;">Snort, Wireshark, YARA, NetworkMiner, Zeek, MITRE ATT&CK Framework, OpenCTI, Wazuh, Osquery, Sysmon, Brim, Windows Event Logs, Splunk, ELK.</p>
 <p style="font-size:160%;">Together, these tools form the foundation of my cybersecurity toolkit, enabling me to navigate the complexities of the digital landscape and provide effective solutions to combat emerging threats.</p>
   
 <p style="font-size:160%;">Join me on this exciting journey as we explore the fascinating world of cybersecurity, dissecting malware, unraveling captivating stories, and discovering strategies to protect against the ever-present risks. Together, we can stay one step ahead in the battle against cyber threats and safeguard our digital future.</p>
@@ -36,10 +36,11 @@
 <p style="font-size:160%;">WireShark</p>
 <p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/cold-as-ice-unit-42-wireshark-quiz-for-icedid-bc24aa0034e1">https://medium.com/@enyel.salas84/cold-as-ice-unit-42-wireshark-quiz-for-icedid-bc24aa0034e1</a></p>
 <p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/unveiling-the-gozi-infection-detecting-gozi-in-an-active-directory-ad-environment-using-9773baebe25f">https://medium.com/@enyel.salas84/unveiling-the-gozi-infection-detecting-gozi-in-an-active-directory-ad-environment-using-9773baebe25f</a></p>
+<p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/answers-to-unit-42-wireshark-quiz-february-2023-42b17d6c7749">https://medium.com/@enyel.salas84/answers-to-unit-42-wireshark-quiz-february-2023-42b17d6c7749</a></p>
 <p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/tryhackme-wireshark-packet-operations-293edfb6d446">https://medium.com/@enyel.salas84/tryhackme-wireshark-packet-operations-293edfb6d446</a></p>
 <p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/tryhackme-carnage-walkthrough-bdd9fc64cddf">https://medium.com/@enyel.salas84/tryhackme-carnage-walkthrough-bdd9fc64cddf</a></p>
 <p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/tryhackme-wireshark-traffic-analysis-592bf06df0b1">https://medium.com/@enyel.salas84/tryhackme-wireshark-traffic-analysis-592bf06df0b1</a></p>
-<p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/answers-to-unit-42-wireshark-quiz-february-2023-42b17d6c7749">https://medium.com/@enyel.salas84/answers-to-unit-42-wireshark-quiz-february-2023-42b17d6c7749</a></p>
+
 
 <p style="font-size:160%;">Splunk</p>
 <p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/some-employees-from-your-company-reported-that-they-cant-log-into-outlook-56be4b1ee72a">https://medium.com/@enyel.salas84/some-employees-from-your-company-reported-that-they-cant-log-into-outlook-56be4b1ee72a</a></p>
