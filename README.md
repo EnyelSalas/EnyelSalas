@@ -29,8 +29,9 @@ My projects in the cybersecurity realm are rooted in real-world scenarios, addre
   
 <p style="font-size:160%;">Join me on this exciting journey as we explore the fascinating world of cybersecurity, dissecting malware, unraveling captivating stories, and discovering strategies to protect against the ever-present risks. Together, we can stay one step ahead in the battle against cyber threats and safeguard our digital future.</p>
 
-<p style="font-size:160%;">✨⚡You can read more about me on my Blog and medium posts.</p>
+<p style="font-size:160%;">✨⚡You can read more about me on medium blog posts.</p>
 
 <p style="font-size:160%;"><a href="url">/https://medium.com/@enyel.salas84</a>
-
+<p style="font-size:160%;">WireShark
+https://medium.com/@enyel.salas84/cold-as-ice-unit-42-wireshark-quiz-for-icedid-bc24aa0034e1
 
