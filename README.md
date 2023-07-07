@@ -41,18 +41,18 @@
 <p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/tryhackme-wireshark-traffic-analysis-592bf06df0b1">https://medium.com/@enyel.salas84/tryhackme-wireshark-traffic-analysis-592bf06df0b1</a></p>
 <p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/answers-to-unit-42-wireshark-quiz-february-2023-42b17d6c7749">https://medium.com/@enyel.salas84/answers-to-unit-42-wireshark-quiz-february-2023-42b17d6c7749</a></p>
 
+<p style="font-size:160%;">Splunk</p>
+<p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/some-employees-from-your-company-reported-that-they-cant-log-into-outlook-56be4b1ee72a">https://medium.com/@enyel.salas84/some-employees-from-your-company-reported-that-they-cant-log-into-outlook-56be4b1ee72a</a></p>
+<p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/incident-handling-with-splunk-bfba63cdab63">https://medium.com/@enyel.salas84/incident-handling-with-splunk-bfba63cdab63</a></p>
+<p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/tryhackme-benign-1ae823b8b1e8">https://medium.com/@enyel.salas84/tryhackme-benign-1ae823b8b1e8</a></p>
+<p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/tryhackme-investigating-with-splunk-f2816a15080b">https://medium.com/@enyel.salas84/tryhackme-investigating-with-splunk-f2816a15080b</a></p>
+
 <p style="font-size:160%;">Snort</p>
 <p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/tryhackme-snort-challenge-the-basics-19429dcb9b00">https://medium.com/@enyel.salas84/tryhackme-snort-challenge-the-basics-19429dcb9b00</a></p>
 <p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/tryhackme-snort-challenge-live-attacks-bb39a9887298">https://medium.com/@enyel.salas84/tryhackme-snort-challenge-live-attacks-bb39a9887298</a></p>
 
 <p style="font-size:160%;">Yara</p>
 <p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/tryhackme-yara-6bc8a9bb08e8">https://medium.com/@enyel.salas84/tryhackme-yara-6bc8a9bb08e8</a></p>
-
-<p style="font-size:160%;">Splunk</p>
-<p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/some-employees-from-your-company-reported-that-they-cant-log-into-outlook-56be4b1
-
-
-
 
 
 
