@@ -47,6 +47,9 @@
 <p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/tryhackme-benign-1ae823b8b1e8">https://medium.com/@enyel.salas84/tryhackme-benign-1ae823b8b1e8</a></p>
 <p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/tryhackme-investigating-with-splunk-f2816a15080b">https://medium.com/@enyel.salas84/tryhackme-investigating-with-splunk-f2816a15080b</a></p>
 
+<p style="font-size:160%;">ELK</p>
+<p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/tryhackme-itsybitsy-952dcde8104e">https://medium.com/@enyel.salas84/tryhackme-itsybitsy-952dcde8104e</a></p>
+
 <p style="font-size:160%;">Snort</p>
 <p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/tryhackme-snort-challenge-the-basics-19429dcb9b00">https://medium.com/@enyel.salas84/tryhackme-snort-challenge-the-basics-19429dcb9b00</a></p>
 <p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/tryhackme-snort-challenge-live-attacks-bb39a9887298">https://medium.com/@enyel.salas84/tryhackme-snort-challenge-live-attacks-bb39a9887298</a></p>
@@ -54,8 +57,15 @@
 <p style="font-size:160%;">Yara</p>
 <p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/tryhackme-yara-6bc8a9bb08e8">https://medium.com/@enyel.salas84/tryhackme-yara-6bc8a9bb08e8</a></p>
 
+<p style="font-size:160%;">Zeek</p>
+<p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/tryhackme-zeek-a3e297002133">https://medium.com/@enyel.salas84/tryhackme-zeek-a3e297002133</a></p>
+<p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/tryhackme-zeek-exercises-bc9ce4ae429a">https://medium.com/@enyel.salas84/tryhackme-zeek-exercises-bc9ce4ae429a</a></p>
 
+<p style="font-size:160%;">Brim</p>
+<p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/tryhackme-brim-d93a4a891a51">https://medium.com/@enyel.salas84/tryhackme-brim-d93a4a891a51</a></p>
 
+<p style="font-size:160%;">Azure Project on how to secure a web application</p>
+<p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/cybersecurity-project-df387666d678">https://medium.com/@enyel.salas84/cybersecurity-project-df387666d678</a></p>
 
 
 
