@@ -70,7 +70,7 @@ My projects in the cybersecurity realm are rooted in real-world scenarios, addre
 <pstyle="font-size:160%;>Brim</p>
 <pstyle="font-size:160%;>https://medium.com/@enyel.salas84/tryhackme-brim-d93a4a891a51
 
-<pstyle="font-size:160%;>project: Securing a WebApp</p>
+<pstyle="font-size:160%;>project:Securing a WebApp</p>
 <pstyle="font-size:160%;>https://medium.com/@enyel.salas84/cybersecurity-project-df387666d678</p>
 
 
