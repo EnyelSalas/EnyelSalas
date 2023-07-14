@@ -71,5 +71,4 @@
 
 <p style="font-size:160%;">Project Cloud Security and Virtualizations</p>
 
-<p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/project-cloud-security-and-virtualization-8a9d248b5732"</a></p>
-
+<p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/project-cloud-security-and-virtualization-8a9d248b5732">https://medium.com/@enyel.salas84/project-cloud-security-and-virtualization-8a9d248b5732</a></p>
