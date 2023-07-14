@@ -65,8 +65,11 @@
 <p style="font-size:160%;">Brim</p>
 <p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/tryhackme-brim-d93a4a891a51">https://medium.com/@enyel.salas84/tryhackme-brim-d93a4a891a51</a></p>
 
-<p style="font-size:160%;">Azure Project on how to secure a web application</p>
+<p style="font-size:160%;">Azure Secure Web Applications</p>
 <p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/cybersecurity-project-df387666d678">https://medium.com/@enyel.salas84/cybersecurity-project-df387666d678</a></p>
 
 
+<p style="font-size:160%;">Project Cloud Security and Virtualizations</p>
+
+<p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/project-cloud-security-and-virtualization-8a9d248b5732"</a></p>
 
