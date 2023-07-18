@@ -11,7 +11,7 @@
 <p style="font-size:160%;"></p>
 <p style="font-family:courier;"></p>
 
-<h1 style="font-size:260%;">Hi, I'm Enyel, Jr SOC Analyst, CyberGuard's Blog editor and founder.</h1>
+<h1 style="font-size:260%;">Hi There! I'm Enyel, Threat Hunter/SOC Analyst, Blog's Host Founder and Editor at the Medium's CyberGuard Blog.</h1>
   
 <p style="font-size:160%;">Welcome to my Github blog and portfolio page, where cybersecurity meets real-world challenges. I am a resourceful, motivated, and hands-on professional who is deeply passionate about cybersecurity. With an extensive background in both corporate and entrepreneurial ventures, including my work as a life coach and lead instructor in the fitness industry, I have honed my skills in managing ambiguity and solving complex problems.</p>
 
