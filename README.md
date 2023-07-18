@@ -68,11 +68,14 @@
 <p style="font-size:180%;">Brim</p>
 <p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/tryhackme-brim-d93a4a891a51">https://medium.com/@enyel.salas84/tryhackme-brim-d93a4a891a51</a></p>
 
-<p style="font-size:180%;">Projects:</p>
+<p style="font-size:180%;">Projects:</p> 
+
+<p style="font-size:160%;">Implementing Splunk Enterprise for Log Aggregation and Analysis</p>
+<p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/implementing-splunk-enterprise-for-log-aggregation-and-analysis-eb4e25f7fb21">Medium Article Link</a></p>
+
 <p style="font-size:160%;">Project:Azure Secure Web Applications</p>
 <p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/cybersecurity-project-df387666d678">https://medium.com/@enyel.salas84/cybersecurity-project-df387666d678</a></p>
 
 
-<p style="font-size:180%;">Project: Cloud Security, Automation and Virtualization</p>
-
+<p style="font-size:160%;">Project: Cloud Security, Automation and Virtualization</p>
 <p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/project-cloud-security-and-virtualization-8a9d248b5732">https://medium.com/@enyel.salas84/project-cloud-security-and-virtualization-8a9d248b5732</a></p>
