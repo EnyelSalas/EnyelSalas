@@ -2,18 +2,13 @@
 
 
 
-
 <!DOCTYPE html>
 <html>
 <body>
 
-<h1 style="font-size:300%;"></h1>
-<p style="font-size:160%;"></p>
-<p style="font-family:courier;"></p>
-
 <h1 style="font-size:260%;">Hi There! I'm Enyel, Threat Hunter/SOC Analyst, Blog's Host Founder and Editor at the Medium's CyberGuard Blog.</h1>
   
-<p style="font-size:160%;">Welcome to my Github blog and portfolio page, where cybersecurity meets real-world challenges. I am a resourceful, motivated, and hands-on professional who is deeply passionate about cybersecurity. With an extensive background in both corporate and entrepreneurial ventures, including my work as a life coach and lead instructor in the fitness industry, I have honed my skills in managing ambiguity and solving complex problems.</p>
+<p style="font-size:160%;">Welcome to my GitHub blog and portfolio page, where cybersecurity meets real-world challenges. I am a resourceful, motivated, and hands-on professional who is deeply passionate about cybersecurity. With an extensive background in both corporate and entrepreneurial ventures, including my work as a life coach and lead instructor in the fitness industry, I have honed my skills in managing ambiguity and solving complex problems.</p>
 
 <p style="font-size:160%;">As a career pivot, I have embarked on a journey of accelerated project-based learning, triaging, and diligent self-study. This has equipped me with the necessary tools to continue learning and growing while working for a progressive cybersecurity firm. I thrive as a team player, bringing an energetic personality and a relentless drive to my work.</p>
 
@@ -24,12 +19,18 @@
 <p style="font-size:160%;">Threat hunting and analysis are at the core of my approach. By proactively searching for signs of compromise and analyzing anomalous behavior, I identify potential threats that may go unnoticed by traditional security measures. This proactive stance allows for early detection and mitigation.</p>
 
 <p style="font-size:160%;">To aid in these endeavors, I focus on tools, each serving the unique purpose of monitoring networks' systems and endpoints:</p>
+
 <p style="font-size:160%;">Snort, Wireshark, YARA, NetworkMiner, Zeek, MITRE ATT&CK Framework, OpenCTI, Wazuh, Osquery, Sysmon, Brim, Windows Event Logs, Splunk, ELK.</p>
+
 <p style="font-size:160%;">Together, these tools form the foundation of my cybersecurity toolkit, enabling me to navigate the complexities of the digital landscape and provide effective solutions to combat emerging threats.</p>
   
 <p style="font-size:160%;">Join me on this exciting journey as we explore the fascinating world of cybersecurity, dissecting malware, unraveling captivating stories, and discovering strategies to protect against the ever-present risks. Together, we can stay one step ahead in the battle against cyber threats and safeguard our digital future.</p>
 
-<p style="font-size:160%;">✨⚡You can read more about me in the medium blogs, where I document self-developing and educational posts for the cybersecurity community. Please leave a comment with some feedback; constructive criticism is very welcome.</p>
+<p style="font-size:160%;">✨⚡You can read more about me in the Medium blogs, where I document self-developing and educational posts for the cybersecurity community. Please leave a comment with some feedback; constructive criticism is very welcome.</p>
+
+</body>
+</html>
+
 <p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84">Medium Profile Link</a></p>
 <p style="font-size:180%;">WireShark</p>
 <p style="font-size:160%;"><a href="https://medium.com/@enyel.salas84/cold-as-ice-unit-42-wireshark-quiz-for-icedid-bc24aa0034e1">Cold as Ice: Unit 42 Wireshark Quiz for IcedID</a></p>
