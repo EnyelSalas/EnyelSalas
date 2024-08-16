@@ -1,32 +1,49 @@
 
 
 
-
 <!DOCTYPE html>
 <html>
 <body>
 
-<h1 style="font-size:260%;">Hi There! I'm Enyel, Threat Hunter/SOC Analyst, Blog's Host Founder and Editor at the Medium's CyberGuard Blog.</h1>
-  
-<p style="font-size:160%;">Welcome to my GitHub blog and portfolio page, where cybersecurity meets real-world challenges. I am a resourceful, motivated, and hands-on professional who is deeply passionate about cybersecurity. With an extensive background in both corporate and entrepreneurial ventures, including my work as a life coach and lead instructor in the fitness industry, I have honed my skills in managing ambiguity and solving complex problems.</p>
+<h1 style="font-size:260%;">Hello! My name is Enyel</h1>
 
-<p style="font-size:160%;">As a career pivot, I have embarked on a journey of accelerated project-based learning, triaging, and diligent self-study. This has equipped me with the necessary tools to continue learning and growing while working for a progressive cybersecurity firm. I thrive as a team player, bringing an energetic personality and a relentless drive to my work.</p>
+<p style="font-size:160%;">I have a deep interest in Defensive Security, particularly in Digital Forensics & Incident Response, Phishing Analysis, Malware Analysis, Threat Hunting, and OSINT. I’m also an avid reader, whether it’s technical articles or non-technical blogs. I regularly challenge myself with exercises on CyberDefenders, LetsDefend, BTLO, TryHackMe, and HackTheBox. I also enjoy listening to cybersecurity and hacking-related podcasts like The Hacker Factory and Darknet Diaries.</p>
 
-<p style="font-size:160%;">In my blog, I focus on the intricate analysis of malware and captivating stories surrounding some of the biggest hacks in various industries. By dissecting these incidents, I provide valuable insights into the tactics, techniques, and procedures employed by threat actors. Through my blog, you will gain a deeper understanding of the evolving threat landscape and learn actionable strategies to fortify your defenses.</p>
+<p style="font-size:160%;">Welcome to my GitHub blog and portfolio page, where cybersecurity meets real-world challenges! I’m a resourceful, motivated, and hands-on professional with a keen and profound interest in Cybersecurity and Hacking. My background spans corporate roles, entrepreneurship, life coaching, and leadership in the fitness industry, giving me a unique skill set for managing ambiguity and solving complex problems.</p>
 
-<p style="font-size:160%;">My projects in the cybersecurity realm are rooted in real-world scenarios, addressing the ever-evolving challenges faced by organizations today.</p>
+<p style="font-size:160%;">As a career pivot, I’ve embarked on an exciting journey of accelerated project-based learning, triaging, and diligent self-study. This experience has equipped me with the tools to thrive in a progressive cybersecurity environment. I bring energy, a relentless drive, and a focus on continuous improvement to every project. Most importantly, I have fun doing what I do—creating, contributing, and diving deep into the world of cybersecurity!</p>
 
-<p style="font-size:160%;">Threat hunting and analysis are at the core of my approach. By proactively searching for signs of compromise and analyzing anomalous behavior, I identify potential threats that may go unnoticed by traditional security measures. This proactive stance allows for early detection and mitigation.</p>
+<p style="font-size:160%;">In my blog, I explore the intricate analysis of malware and share captivating stories about some of the biggest hacks across various industries. By dissecting these incidents, I provide valuable insights into the tactics, techniques, and procedures employed by threat actors. This helps you better understand the evolving threat landscape and discover actionable strategies to fortify your defenses.</p>
 
-<p style="font-size:160%;">To aid in these endeavors, I focus on tools, each serving the unique purpose of monitoring networks' systems and endpoints:</p>
+<p style="font-size:160%;">My work is rooted in real-world scenarios, addressing the dynamic challenges organizations face today. Threat hunting and analysis are central to my approach. By proactively searching for signs of compromise and analyzing anomalous behavior, I identify potential threats that often go unnoticed by traditional security measures, enabling early detection and mitigation.</p>
 
-<p style="font-size:160%;">Snort, Wireshark, YARA, NetworkMiner, Zeek, MITRE ATT&CK Framework, OpenCTI, Wazuh, Osquery, Sysmon, Brim, Windows Event Logs, Splunk, ELK.</p>
+<p style="font-size:160%;">To support these efforts, I leverage a robust suite of tools:</p>
 
-<p style="font-size:160%;">Together, these tools form the foundation of my cybersecurity toolkit, enabling me to navigate the complexities of the digital landscape and provide effective solutions to combat emerging threats.</p>
-  
-<p style="font-size:160%;">Join me on this exciting journey as we explore the fascinating world of cybersecurity, dissecting malware, unraveling captivating stories, and discovering strategies to protect against the ever-present risks. Together, we can stay one step ahead in the battle against cyber threats and safeguard our digital future.</p>
+<ul style="font-size:160%;">
+    <li>Snort</li>
+    <li>Wireshark</li>
+    <li>YARA</li>
+    <li>NetworkMiner</li>
+    <li>Zeek</li>
+    <li>MITRE ATT&CK Framework</li>
+    <li>OpenCTI</li>
+    <li>Wazuh</li>
+    <li>Osquery</li>
+    <li>Sysmon</li>
+    <li>Brim</li>
+    <li>Windows Event Logs</li>
+    <li>Splunk</li>
+    <li>ELK</li>
+</ul>
 
-<p style="font-size:160%;">✨⚡You can read more about me in the Medium blogs, where I document self-developing and educational posts for the cybersecurity community. Please leave a comment with some feedback; constructive criticism is very welcome.</p>
+<p style="font-size:160%;">These tools form the foundation of my cybersecurity toolkit, empowering me to navigate the complexities of the digital landscape and deliver effective solutions to counter emerging threats.</p>
+
+<p style="font-size:160%;">Thanks for stopping by! Join me on this exciting journey as we explore the fascinating world of cybersecurity together. Let’s stay one step ahead in the battle against cyber threats and safeguard our digital future.</p>
+
+<p style="font-size:160%;">✨⚡You can read more about me on Medium, where I document self-development and educational posts for the cybersecurity community. Your feedback and constructive criticism are always welcome!</p>
+
+</body>
+</html>
 
 </body>
 </html>
